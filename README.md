@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Fartiyal
 - 👀 I’m interested in Coding, mathematics, C++,Java,Python etc..
-- 🌱 I am currently learning javascript, web development ,and many other technologies...
+- 🌱 I am currently learning Django, web development ,and many other technologies...
 - ❤️ I love Singing, Coding, and solving mathematical problems.
 - 📫 How to reach me at fartiyal18042002@gmail.com , codechef:https://discuss.codechef.com/u/fartiyal
 
